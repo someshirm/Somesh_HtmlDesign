@@ -1,0 +1,30 @@
+.heading{
+text-align: center;
+color: indianred;
+}
+
+.main{
+    padding: 40px;
+     
+    background-color: bisque;
+    border: solid black 2px;
+    
+
+    
+}
+
+.table_text{
+ margin-left: 50px;
+}
+
+.div_text{
+    margin-left: 50px;
+    
+}
+.button{
+    color: black;
+    text-align: center;
+    
+      width: 100%;
+      
+}
